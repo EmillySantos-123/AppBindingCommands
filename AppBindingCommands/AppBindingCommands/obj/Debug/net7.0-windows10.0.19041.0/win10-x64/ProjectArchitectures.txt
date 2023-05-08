@@ -1,0 +1,1 @@
+D:\3AI\Emy_Vi\PAM\PrimeiroApp\AppBindingCommands\AppBindingCommands\AppBindingCommands\AppBindingCommands.csproj;x64
